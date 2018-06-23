@@ -1,0 +1,12 @@
+//instal pack create-react-app with permission global
+npm install create-react-app -g
+//create app
+npm create-react-app learn-reactjs
+
+T?o m?i project: create-react-app react-app
+npm start or yarn start: start môi tru?ng dev.
+npm build or yarn build build production.
+
+
+link 
+https://kipalog.com/posts/ReactJS-voi-create-react-app-toan-tap
